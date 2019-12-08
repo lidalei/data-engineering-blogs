@@ -9,3 +9,5 @@ This repository serves as a sketch book of interesting data engineering and mach
     A PDF version: [troubleshooting-kubernetes.pdf](troubleshooting-kubernetes.pdf)
 
     Diagnose nginx: [ingress-nginx kubectl plugin](https://kubernetes.github.io/ingress-nginx/kubectl-plugin/)
+
+3. PagerDuty: [Full Service Ownership](https://ownership.pagerduty.com/)
