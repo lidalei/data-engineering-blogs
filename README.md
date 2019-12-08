@@ -7,3 +7,5 @@ This repository serves as a sketch book of interesting data engineering and mach
 2. Daniele Polencic: [Troubleshooting k8s deployments](https://learnk8s.io/troubleshooting-deployments)
   
     A PDF version: [troubleshooting-kubernetes.pdf](troubleshooting-kubernetes.pdf)
+
+    Diagnose nginx: [ingress-nginx kubectl plugin](https://kubernetes.github.io/ingress-nginx/kubectl-plugin/)
