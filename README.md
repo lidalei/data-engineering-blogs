@@ -11,3 +11,8 @@ This repository serves as a sketch book of interesting data engineering and mach
     Diagnose nginx: [ingress-nginx kubectl plugin](https://kubernetes.github.io/ingress-nginx/kubectl-plugin/)
 
 3. PagerDuty: [Full Service Ownership](https://ownership.pagerduty.com/)
+
+4. Clickhouse
+
+    * [ClickHouse Data Warehouse 101: The First Billion Rows
+](https://www.percona.com/live/19/sessions/clickhouse-data-warehouse-101-the-first-billion-rows)
